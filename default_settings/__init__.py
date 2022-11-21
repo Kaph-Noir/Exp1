@@ -1,1 +1,1 @@
-__all__ = ['set_korean_char_plot']
+__all__ = ['set_plot_korean_char']
